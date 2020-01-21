@@ -1,3 +1,6 @@
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=wechat_red_packet_helper_liz740839)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=wechat_red_packet_helper_liz740839)
+
 ### WeChat微信抢红包神器
 #### 微信红包秒抢神器，无需root权限自动帮你抢红包
 ##### 微信抢红包神器，只需简单设置，无论在待机或者熄屏状态下，只有有红包，App会自动帮你打开通知，打开红包。并能过滤指定群或关键字实现不抢不该抢的红包。
