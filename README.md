@@ -14,3 +14,10 @@
  - 延时抢红包（随机0至5秒打开红包，留给其他人抢红包的机会）
  - 熄屏抢红包（在熄屏锁屏状态下也能抢红包）
  - 过滤测挂红包（设置关键字可以过滤特定群或红包）
+ 
+ ### 应用截图
+ ![image](https://github.com/liz740839/WeChatRedPacketHelper/raw/master/1.png)
+ 
+ ![image](https://github.com/liz740839/WeChatRedPacketHelper/raw/master/2.png)
+ 
+ ![image](https://github.com/liz740839/WeChatRedPacketHelper/raw/master/3.png)
